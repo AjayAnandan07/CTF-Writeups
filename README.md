@@ -38,17 +38,6 @@ CTF-Writeups/
 
 ---
 
-## 🗂️ picoCTF Writeups
-
-| # | Challenge | Category | Points | Difficulty |
-|---|-----------|----------|--------|------------|
-| 1 | [Old Session](picoCTF/01-old-session.md) | Web Exploitation | 100 | Easy |
-| 2 | Dev Backdoor | Web Exploitation | — | Easy |
-| 3 | Announcements (SSTI) | Web Exploitation | — | Easy |
-| 4 | File Upload | Web Exploitation | — | Easy |
-
----
-
 > *"Never go 3 days without touching something."* 🔥
 
 **github.com/AjayAnandan07**
